@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-<!--
+
 **techhjork/techhjork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[![GitHub Streak]()](https://git.io/streak-stats)
-📊 **More Stats**
-  
+
+📊 **More Stats**  
 <details>
   <summary>Github Stats</summary>
   <br>
   <a href="https://mrepol742.github.io">
-  <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=techhjork&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true">
+  <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=techhjork">
 </a>  
   
 </details> 
@@ -24,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
