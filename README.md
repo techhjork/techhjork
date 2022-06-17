@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://techhjork.github.io">
-    <img alt="Joker" style="max-width:300px;width:100%" aria-label="profile image" src="https://user-images.githubusercontent.com/62848979/174317251-c206303d-ae7b-4370-bb64-0836bae46cc5.gif" /> 
+    <img alt="Joker" style="height:300px aria-label="profile image" src="https://user-images.githubusercontent.com/62848979/174317251-c206303d-ae7b-4370-bb64-0836bae46cc5.gif" /> 
   </a> 
   <h1 align="center" aria-label="profile name" >Techh Jork</h1>
 </p>
