@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://twitter.com/techhjork"><img width="26px" alt="twitter" title="twitter" src="https://user-images.githubusercontent.com/62848979/210152082-184965a3-3d88-414b-85ca-696ee1f5d137.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:hey.nabeen@tuta.io"><img width="26px" alt="mail" title="mail" src="https://user-images.githubusercontent.com/62848979/210152073-48509526-4f84-4c72-864a-e41496c18ecf.png"/></a>
+  <a href="mailto:techhjork@gmail.com"><img width="26px" alt="mail" title="mail" src="https://user-images.githubusercontent.com/62848979/210152073-48509526-4f84-4c72-864a-e41496c18ecf.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://reddit.com/user/techhjork"><img width="26px" alt="reddit" title="reddit" src="https://user-images.githubusercontent.com/62848979/210152061-dc594925-e219-42b2-8375-526cc95bef1f.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
