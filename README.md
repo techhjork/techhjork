@@ -22,7 +22,7 @@
    </h6>
    </p> 
   
-  
+ <!-- 
  ### Hi there 👋
 
 <p align="center">
@@ -31,9 +31,10 @@
   </a> 
   <h1 align="center" aria-label="profile name" >✨ Techh Jork ✨</h1>
 </p>
+-->
 <!--**techhjork/techhjork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
+ <!-- 
 📊 **More Stats**  
 <details>
   <summary>Github Stats</summary>
@@ -42,6 +43,7 @@
   <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=techhjork">
 </a>  
 </details> 
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
